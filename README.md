@@ -6,7 +6,9 @@ Python lesson to be taught at STFC Introductory Course in Solar and Solar-Terres
 
 Based on the Software Carpentry lesson [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/index.html).
 
-The lesson is composed of a set of [Jupyter Notebooks](https://jupyter.org). You can clone this repository and run the notebooks on your own computer (see below), or run them in [Binder](https://mybinder.org/) using the 'launch binder' button above.
+The lesson is composed of a set of [Jupyter Notebooks](https://jupyter.org). You can:
+ - Clone this repository (or download a zip archive of the contents) and run the notebooks on your own computer (see below), **or**
+ - Run them in [Binder](https://mybinder.org/) using the 'launch binder' button above.
 
 ## Starting JupyterLab
 
